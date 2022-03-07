@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500&family=Lato:wght@100&family=Montserrat:wght@100;300;400;700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:wght@100;200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', 'Inter' , sans-serif;
+
+}
+
+.logo1{
+  left:90px;
+  position:absolute;
+  top: 16px;
+ 
+
+
+}
+
+
+.Home{
+position: absolute;
+width: 38px;
+height: 16px;
+left: 527.5px;
+top: 42px;
+text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+color: #000000;
+list-style-type: none;
+}
+
+.About{
+position: absolute;
+width: 38px;
+height: 16px;
+left: 625.5px;
+top: 42px;
+text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #000000;
+list-style-type: none;
+}
+
+.Features{
+position: absolute;
+width: 55px;
+height: 16px;
+left: 723.5px;
+top: 42px;
+text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #000000;
+list-style-type: none;
+
+}
+
+.Pricing{
+position: absolute;
+width: 44px;
+height: 16px;
+left: 838.5px;
+top: 42px;
+text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #000000;
+list-style-type: none;
+}
+
+.Gallery{
+position: absolute;
+width: 43px;
+height: 16px;
+left: 942.5px;
+top: 42px;
+text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #000000;
+list-style-type: none;
+}
+
+.Team{
+position: absolute;
+width: 35px;
+height: 16px;
+left: 1045.5px;
+top: 42px;
+text-decoration: none;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+color: #000000;
+list-style-type: none;
+}
+
+
+
